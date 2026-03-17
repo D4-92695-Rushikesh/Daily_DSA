@@ -1,4 +1,4 @@
-package Binarysearch;
+
 import java.util.Scanner;
 public class LastOccurence {
 
